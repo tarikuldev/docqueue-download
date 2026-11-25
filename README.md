@@ -13,6 +13,6 @@ The link always points to the newest version. New versions install as an update 
 
 ## Current version
 
-**1.0.0 (demo mode):** runs fully offline with sample doctors. Sign in with any Bangladeshi mobile number, for example `01712345678`, and code **123456**.
+**1.0.1 (demo mode):** adds *My profile* (avatar → My profile) to see your details and edit your name. Runs fully offline with sample doctors. Sign in with any Bangladeshi mobile number, for example `01712345678`, and code **123456**.
 
 This repository only hosts the app download.
