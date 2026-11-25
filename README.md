@@ -9,10 +9,10 @@ Book a doctor's serial and track the live queue from your phone.
 2. Open the downloaded file and allow **Install unknown apps** for your browser when asked.
 3. Open **DocQueue**.
 
-The link always points to the newest version. New versions install as an update over the old one.
+The link always points to the newest version. From 1.0.2 on, the app finds and installs new versions by itself.
 
 ## Current version
 
-**1.0.1 (demo mode):** adds *My profile* (avatar → My profile) to see your details and edit your name. Runs fully offline with sample doctors. Sign in with any Bangladeshi mobile number, for example `01712345678`, and code **123456**.
+**1.0.2 (demo mode):** DocQueue now updates itself. When a new version is out, tap **Update** on the home screen (or avatar → My profile → App updates). Runs fully offline with sample doctors.
 
 This repository only hosts the app download.
