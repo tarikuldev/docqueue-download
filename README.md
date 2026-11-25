@@ -13,6 +13,6 @@ The link always points to the newest version. From 1.0.2 on, the app finds and i
 
 ## Current version
 
-**1.0.2 (demo mode):** DocQueue now updates itself. When a new version is out, tap **Update** on the home screen (or avatar → My profile → App updates). Runs fully offline with sample doctors.
+**1.1.0 (demo mode):** all-new *Clinical Midnight* design with an animated logo, glass cards, tilting date picker, glowing hold countdown and a live queue path. DocQueue updates itself: tap **Update** when a new version is out. Runs fully offline with sample doctors.
 
 This repository only hosts the app download.
